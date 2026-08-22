@@ -10,7 +10,7 @@ SHA-256: `f647fd1a9e3178d02da074f9025ac9fe1062e5fa6d2874852035f5525e33ff2`
 
 ## Versão portátil
 
-- [Baixar Tefilin Portátil v1.1.47](https://github.com/cordeiroalfa0-dev/Tefilin-privado/releases/download/v1.0.1/Tefilin_Portatil_v1.1.47.zip)
+- [Baixar Tefilin Portátil v1.1.47](https://github.com/cordeiroalfa0-dev/Tefilin-privado/releases/download/v1.0.1/pasted_file_TW9Cib_Tefilin_Portatil_v1.1.47_FINAL.zip)
 
 SHA-256 do ZIP portátil: `b1695845cb3dcb154911957cd57c1e89d35261f5f104a52b6cd123f7846534ef`
 
